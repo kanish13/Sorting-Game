@@ -1,5 +1,5 @@
 # Sorting-Game
-I have Python Script to play Sorting Game
+I have developed Python Script to play Sorting Game
 
 RULES:
 
