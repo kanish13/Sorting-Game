@@ -4,7 +4,9 @@ I have Python Script to play Sorting Game
 RULES:
 
 EXAMPLE:
-                                                 RANDOMLY GENERATED 
+                                                
+                                                
+                                                RANDOMLY GENERATED 
 
                                                  |_ _|       |_ _|
                                                  |_5_| |_ _| |_4_|
